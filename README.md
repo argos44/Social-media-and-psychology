@@ -25,3 +25,21 @@ The cheapest I could find on the net (free shipping) in 5 minutes is a refurbish
 ??
 
 Android needs 2GB of RAM, and 2GB! of storage space, and you can play your games, turning it into a console, install Matlab 5, or whatever. Are you crazy? You have Unix like shells, everything for Android. But, you should ask the Maestro, Linus Thorvalds, but I think he's probably not interested in modern android games :(
+
+A quickstart: a kernel (of linux or android) is jast a layer which provides an interface (or connection) between the programs running over the kernel in memory, and the CPU. Then the CPU does the rest of the work for memory control etc. At least I think so. But I also suppose, that nobody really knows what a kernel is, except Linus, because he was the one who wrote the first linux kernel, when he was around 15. UNIX was not open source, as I remember, so I don't know.
+
+A DAEMON is a service in windows, it is called a DAEMON in unix like systems. It is just a layer, or interface between peripherials (screen, keyboard, printers, etc) and the kernel. 
+
+So... if you're unhappy with something, why don't you develop a DAEMON for a console controller??
+
+But, please be responsible, if you don't know what something is, then just leave it alone....
+
+this is interesting too:
+
+https://www.youtube.com/watch?v=ws3DJF7MbMU
+
+I know, I should've partied all night, instead I was watching "Amiga story" :(((
+
+By the way, OS X's graphical interface was actually invented by someone at Xerox...... and, if you really want to be in OS X, I'd recomment 9.1, with a G3 iMAC.
+
+That was a PC that is still a PC now..........
