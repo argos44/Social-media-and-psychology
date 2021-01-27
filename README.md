@@ -43,3 +43,7 @@ I know, I should've partied all night, instead I was watching "Amiga story" :(((
 By the way, OS X's graphical interface was actually invented by someone at Xerox...... and, if you really want to be in OS X, I'd recomment 9.1, with a G3 iMAC.
 
 That was a PC that is still a PC now..........
+
+
+
+and...... don't forget, that whatever bad situation you are in, someone is probably watching over you in thought, and thinks how can you be helped....
