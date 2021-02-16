@@ -1,3 +1,6 @@
+#edit below
+
+
 # Social-media-and-psychology
 Jacob L. Moreno's Sociogram, and how it might affect Youtube, Insta, Facebook culture
 
@@ -47,3 +50,10 @@ That was a PC that is still a PC now..........
 
 
 and...... don't forget, that whatever bad situation you are in, someone is probably watching over you in thought, and thinks how can you be helped....
+
+ok... so now you're probably stuck with a bad grade from school, because of wasting time on mapping the social diagrams on the net... nothing gained, except a few missed parties... so?
+
+well... ever played chess? Lookup Kasparov's classic game contre Deep Blue...... Funny thing is, I had a classmate in high, who had a ps/2 with chessmaster 2000. Now, according to him (He could beat the program on a regular basis) Deep Blue is basically chessmaster 2000 with a nicer GUI.
+
+Anyways, Kaparov's problem was...... that the King is defended by the queen.... which is defended by the courrier... so, unless you're behaving japanese (a term when you have no idea, but still slash you way on the metro, that is, you saw it in the movies), you cannot remove the courrier..... which is the problem. Nothing special, but the courrier is defended by a row of peasants, who are........ so?
+ any ideas?
